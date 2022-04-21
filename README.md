@@ -4,10 +4,10 @@
   [The notebook](https://github.com/wangjing0/Switch_Analysis/blob/main/ExploratoryAnalysis.ipynb)
   
 What I know: 
-  * switch happens instanteuously 
-  * do memorize the visit history
-  * RT increased during exploration phase
-  * RT increased was not due to slow down of hand move, but delayed initiation of the movement. the speed profile are almost unchanged.
+  * Switching happens instantaneously 
+  * They do memorize the visit history
+  * RT is increased during exploration phase
+  * Increased RT was not due to slowing down of hand move, but delayed initiation of the movement. the velocity profile are almost unchanged.
   * 
 What I am not sure about
   * is there a general strategy applied, or purely guessing? 

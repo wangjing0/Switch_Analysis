@@ -1,4 +1,5 @@
 # to do list
+  [The task](https://run.pavlovia.org/jingwang.physics/switchbeta/html)
 what I know:
  
   * switch happens instanteuously 

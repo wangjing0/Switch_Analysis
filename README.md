@@ -1,6 +1,7 @@
 # to do list
   [The task](https://run.pavlovia.org/jingwang.physics/switchbeta/html)
-
+  [The notebook](https://github.com/wangjing0/Switch_Analysis/blob/main/ExploratoryAnalysis.ipynb)
+  
 What I know: 
   * switch happens instanteuously 
   * do memorize the visit history
